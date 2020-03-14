@@ -1,5 +1,0 @@
-{
-  "serverString": "Server=DESKTOP-JH1M2MF\\SQLSERVER_R14;",
-  "securityString": "Trusted_Connection=True;Integrated Security=True;",
-  "dbName": "LandmarksTestDB"
-}
